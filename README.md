@@ -40,10 +40,6 @@ Python Tech Stack
     behave
     ```
 
-## Folder Structure
-api-automation-bdd/ │ ├── features/ │ ├── steps/ │ └── api.feature │ ├── tests/ │ ├── api_test.py │ ├── requirements.txt └── README.md
-
-
 ## Example Test Case
 
 In the `features/api.feature` file, define the BDD scenario:
